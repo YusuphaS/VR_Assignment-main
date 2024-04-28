@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Anchor
+  - Bullet
+  - Weapon
+  - Enemy
+  - Target
   layers:
   - Default
   - TransparentFX
@@ -14,8 +18,8 @@ TagManager:
   - UI
   - Interactables
   - Player
-  - 
-  - 
+  - Door
+  - Frame
   - 
   - 
   - 
